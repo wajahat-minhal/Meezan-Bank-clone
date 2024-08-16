@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+
+.d-flex{
+    display: flex;
+}
+
+.font-1{
+    font-size: 1.5rem;
+}
+
+.font-2{
+    font-size: 2rem;
+}
+
+.font-3{
+    font-size: 2.5rem;
+}
+
+.font-4{
+    font-size: 4rem;
+}
+
+.font-5{
+    font-size: 5rem;
+}
+
+
+.list-none{
+    list-style: none;
+}
+
+.text-dec{
+    text-decoration: none;
+}
+
