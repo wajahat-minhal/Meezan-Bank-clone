@@ -10,8 +10,16 @@
     display: flex;
 }
 
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
 .justify-center{
     justify-content: center;
+}
+
+.justify-around{
+    justify-content: space-around;
 }
 
 .justify-between{
@@ -24,6 +32,10 @@
 
 .text-center{
     text-align: center;
+}
+
+.text-start{
+    text-align: start;
 }
 
 .list-none{
@@ -102,6 +114,11 @@
     padding: 30px;
 }
 
+.mar-1{
+    margin: 10px;
+}
+
+
 
 
 
@@ -115,6 +132,11 @@
     background-color: #c80ac8;
 }
 
+.bg-light-gray{
+    background-color: gainsboro;
+
+}
+
 .text-purple{
     color: purple;
 }
@@ -126,3 +148,4 @@
 .text-white{
     color: white;
 }
+

@@ -11,6 +11,10 @@
     margin-right: 10px;
 }
 
+.pad-top{
+    padding-top: 30px;
+}
+
 .pad-bottom{
     padding-bottom:60px ;
 }
@@ -19,9 +23,9 @@
     padding: 15px 10px;
 }
 
-li:hover{
+/* li:hover{
     background-color: yellow;
-}
+} */
 
 
 .main-card{
@@ -50,3 +54,4 @@ li:hover{
     width: 80vw;
     margin: 0 auto;
 }
+
