@@ -10,6 +10,35 @@
     display: flex;
 }
 
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.list-none{
+    list-style: none;
+}
+
+.text-dec{
+    text-decoration: none;
+}
+
+
+.font{
+    font-size: 1.3rem;
+}
+
 .font-1{
     font-size: 1.5rem;
 }
@@ -30,12 +59,70 @@
     font-size: 5rem;
 }
 
-
-.list-none{
-    list-style: none;
+.g-1{
+    gap: 10px;
 }
 
-.text-dec{
-    text-decoration: none;
+.g-2{
+    gap: 15px;
 }
 
+.g-3{
+    gap: 20px;
+}
+
+.g-4{
+    gap: 30px;
+}
+
+.g-5{
+    gap: 40px;
+}
+
+.pd-1{
+    padding: 10px;
+}
+
+.pd-2{
+    padding: 15px;
+}
+
+
+.pd-3{
+    padding: 20px;
+}
+
+
+.pd-4{
+    padding: 25px;
+}
+
+
+.pd-5{
+    padding: 30px;
+}
+
+
+
+
+
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-light-purple{
+    background-color: #c80ac8;
+}
+
+.text-purple{
+    color: purple;
+}
+
+.text-yellow{
+    color: yellow;
+}
+
+.text-white{
+    color: white;
+}

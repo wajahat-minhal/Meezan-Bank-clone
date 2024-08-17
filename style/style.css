@@ -2,3 +2,51 @@
     width: 200px;
 }
 
+.input-width{
+    width: 150px;
+    height: 30px;
+}
+
+.mar-right{
+    margin-right: 10px;
+}
+
+.pad-bottom{
+    padding-bottom:60px ;
+}
+
+.pad{
+    padding: 15px 10px;
+}
+
+li:hover{
+    background-color: yellow;
+}
+
+
+.main-card{
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.card-width{
+    width: 18vw;
+}
+
+.card-padding{
+    padding: 40px 0px;
+}
+
+.icon{
+    border-radius: 70px;
+}
+
+
+.icon-width{
+    width: 12vw;
+}
+
+.main-icon-card{
+    width: 80vw;
+    margin: 0 auto;
+}
