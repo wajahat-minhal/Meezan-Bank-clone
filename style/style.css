@@ -55,3 +55,44 @@
     margin: 0 auto;
 }
 
+
+
+@media only screen and (max-width: 430px) {
+   
+    
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    #font{
+        font-size: 1rem;
+    }
+
+    #heading{
+        font-size: 1.3rem;
+    }
+
+    #sub-nav{
+        display: flex;
+        flex-direction: column;
+        /* width: 430px; */
+        /* margin: 0 auto; */
+        padding: 10px;
+        font-size: 3rem;
+
+    }
+
+    #sub-nav-ul{
+        width: 430px;
+        margin: 0 0 0 40px;
+        justify-content: left;
+        padding: 5px;
+    }
+
+    #nav-div{
+        width: 54vw;
+    }
+    
+}
