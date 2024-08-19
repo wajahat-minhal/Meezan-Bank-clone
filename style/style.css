@@ -66,6 +66,15 @@
         flex-direction: column;
     }
 
+    #just-cen{
+        justify-content: center;
+        align-items: center;
+    }
+
+    #text-cen{
+        text-align: center;
+    }
+
     #font{
         font-size: 1rem;
     }
@@ -93,6 +102,21 @@
 
     #nav-div{
         width: 54vw;
+    }
+
+    .main-card{
+        width: 80vw;
+        margin: 0 auto;
+    }
+    
+    .card-width{
+        width: 70vw;
+        margin: 0 auto;
+    }
+
+    .icon-width{
+        width: 70vw;
+        margin: 0 auto;
     }
     
 }
